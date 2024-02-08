@@ -1,0 +1,4 @@
+# Ignorar archivos y directorios generados por npm
+node_modules/
+package-lock.json
+package.json
